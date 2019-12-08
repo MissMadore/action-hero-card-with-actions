@@ -33,4 +33,5 @@ html {
   filter: none;
   box-shadow: 0 .1em .3em #000;
   color: #555;
+  top: 40px;
 }
